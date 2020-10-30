@@ -38,3 +38,20 @@ The audio samples unfortunately may vary slightly over recording sessions.
 - [Ik geloof in deze dialoog en we zullen deze dialoog voeren.](./samples/vl12745.wav)
 - [We zullen de uitkomsten op deze werkterreinen afwachten.](./samples/vl14994.wav)
 
+
+
+### Trained models
+
+Models with their corresponding synthesised audio samples are provided in the links below.
+
+Original dataset:
+
+- Tacotron DDC: [Google Drive](https://drive.google.com/drive/folders/1Ew_UGWNNqYxim8H4hhTjeApMRUAcEHZz?usp=sharing)
+
+- Glow: [Google Drive](https://drive.google.com/drive/folders/1ndNI6ccdU3T02N1Q237236ZYZrY7ue31?usp=sharing)
+
+Other dataset:
+
+- Tacotron DDC with transfer learning: [Google Drive (subpar results)](https://drive.google.com/drive/folders/1SkDGmla3Ohiiaaah_syK8U3S1GsHrBq1?usp=sharing)
+
+Due to a severe lack of quality data (4.000 noise gated fragments) the second dataset hasn't been released. The first model was used for transfer learning, although this still proved to be insufficient.
