@@ -6,6 +6,8 @@ This dataset contains 15.000 audio fragments of a male Dutch Flemish voice, the 
 
 Dataset: [Google Drive (1.5GB)](https://drive.google.com/file/d/119YpJWcHGr4SWuh0BPdBpKRJju-ShJ7m/view?usp=sharing)
 
+**New: the dataset is now also available for preview on [Kaggle](https://www.kaggle.com/rdheyg/spoken-belgian-dutch-audio)**
+
 
 
 To use this dataset with [Mozilla TTS](https://github.com/mozilla/TTS), append the following fragment to `TTS/tts/datasets/preprocess.py`:
